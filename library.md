@@ -1,4 +1,4 @@
-## 1055 Devices in library
+## 1065 Devices in library
 
 This file is auto generated, do not modify
 
@@ -383,6 +383,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Govee                                           |H5074                                                                      |CR2477                             |
 |Govee                                           |H5075                                                                      |2× AAA                             |
 |Govee                                           |H5101/H5102/H5177                                                          |AAA                                |
+|Govee                                           |H5102                                                                      |AAA                                |
 |Govee                                           |H5104                                                                      |2× AAA                             |
 |Govee                                           |H5179                                                                      |3× AA                              |
 |GoveeLife                                       |H5105                                                                      |CR2450                             |
@@ -656,7 +657,10 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |rtl_433                                         |Acurite-515                                                                |2× AA                              |
 |rtl_433                                         |Acurite-986                                                                |2× AA                              |
 |rtl_433                                         |Acurite-Tower                                                              |2× AA                              |
+|rtl_433                                         |Efergy-e2CT                                                                |3× AAA                             |
+|rtl_433                                         |Fineoffset-WH24                                                            |3× AA                              |
 |rtl_433                                         |Fineoffset-WH51                                                            |AA                                 |
+|rtl_433                                         |Fineoffset-WH65B                                                           |2× AA                              |
 |rtl_433                                         |Hideki-Rain                                                                |2× AA                              |
 |rtl_433                                         |Hideki-TS04                                                                |AA                                 |
 |rtl_433                                         |Hideki-Wind                                                                |2× AA                              |
@@ -671,10 +675,13 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Samjin                                          |water                                                                      |CR2                                |
 |Samsung                                         |SM-A525F                                                                   |Rechargeable                       |
 |samsung                                         |SM-G955U                                                                   |Rechargeable                       |
+|Samsung                                         |SM-G991B                                                                   |Rechargeable                       |
 |samsung                                         |SM-G998U                                                                   |Rechargeable                       |
 |samsung                                         |SM-S918U                                                                   |Rechargeable                       |
 |Samsung                                         |SM-T225                                                                    |HQ-3565S                           |
+|Samsung                                         |SM-T500                                                                    |Rechargeable                       |
 |Samsung                                         |SM-T510                                                                    |Rechargeable                       |
+|Samsung                                         |SM-T580                                                                    |Rechargeable                       |
 |Saswell                                         |Thermostatic radiator valve (SEA801-Zigbee/SEA802-Zigbee)                  |2× AA                              |
 |Schlage                                         |BE469NX                                                                    |4× AA                              |
 |Schlage                                         |be499WB                                                                    |4× AA                              |
@@ -707,6 +714,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Shenzhen Neo Electronics Co., Ltd.              |NAS-DS01Z                                                                  |CR2                                |
 |Shenzhen Neo Electronics Co., Ltd.              |NAS-PD01Z                                                                  |CR123A                             |
 |Shenzhen Neo Electronics Co., Ltd.              |NAS-WS01Z                                                                  |CR2                                |
+|SIEGENIA                                        |Smart window handle                                                        |2× AAA                             |
 |Signify Netherlands B.V.                        |Hue dimmer switch (RWL020)                                                 |CR2450                             |
 |Signify Netherlands B.V.                        |Hue dimmer switch (RWL021)                                                 |CR2450                             |
 |Signify Netherlands B.V.                        |Hue dimmer switch (RWL022)                                                 |CR2032                             |
@@ -801,6 +809,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |ThermoBeacon                                    |16                                                                         |CR2477                             |
 |ThermoBeacon                                    |21                                                                         |CR2477                             |
 |ThermoBeacon                                    |27                                                                         |CR2477                             |
+|ThermoPro                                       |TP357                                                                      |AAA                                |
 |Third Reality                                   |3RSB015BZ                                                                  |4× AA                              |
 |Third Reality                                   |Smart switch Gen3 (3RSS009Z)                                               |2× AAA                             |
 |Third Reality                                   |Temperature and humidity sensor (3RTHS24BZ)                                |2× AAA                             |
@@ -815,6 +824,7 @@ Request new devices to be added to the library [here](https://github.com/andrew-
 |Tile                                            |T1301N                                                                     |CR2032                             |
 |Trust                                           |COSensor-EM                                                                |CR123A                             |
 |Trust                                           |Smoke detector (ZSDR-850)                                                  |CR123A                             |
+|Trust                                           |SmokeSensor-EM                                                             |CR123A                             |
 |Trust                                           |ZYCT-202                                                                   |CR2450                             |
 |TS0001                                          |_TZ3210_j4pdtz9v                                                           |CR2                                |
 |TS0041                                          |_TZ3000_itb0omhv                                                           |CR2032                             |
